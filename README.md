@@ -10,7 +10,7 @@
 
 ## Contact with me : 
 - ### <a href="mailto:shivasokhana@gmail.com">Email</a> 
-- ### <a hre="www.linkedin.com/in/AmirShivasokhan">Linkdin</a>  
+- ### <a hre="http://linkedin.com/in/AmirShivasokhan">Linkdin</a>  
 - ### <a href="http://instagram.com/amircorps">  Instagram</a>
 - ### <a href="http://telegram.me/ASH_ITIS" >Telegram </a>
 ---
