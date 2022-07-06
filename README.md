@@ -18,8 +18,8 @@
 
 ## The technologies that I use :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="65" style="margin:2px;" >
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Microsoft Visual Studio" height ="70" style="margin:"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"  >
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Microsoft Visual Studio"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="70" alt="IntelliJ IDEA" style="margin:2px;">
 <img src="https://loghi-famosi.com/wp-content/uploads/2021/01/GitHub-Logo.png" alt="Github" height="70" style="margin:2px;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height ="70" style="margin:2px;" > 
