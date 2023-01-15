@@ -2,8 +2,8 @@
 
 - 👋 Hi, My name is Amir. I'm a beginner in coding.
 - 👀 I’m interested in software development such as creating mobile apps or web apps, web designing and many more things which I'm looking forward to descover and learn...
-- I've learned c++, HTML and CSS, algorithm and flowchart so far.
-- 🌱 Currently, I'm learning java and its references.
+- I've learned Java, C++ and object-oriented programming so far. 
+- 🌱 Currently, I'm learning java script to master the front-end part.
 - 💞️ I’d be happy to collaborate or contribute on related projects in a team.
 ---
 <br>
