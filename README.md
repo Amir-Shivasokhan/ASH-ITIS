@@ -1,9 +1,9 @@
 ## My bio 
 
-- 👋 Hi, My name is Amir. I'm a beginner in coding.
-- 👀 I’m interested in software development such as creating mobile apps or web apps, web designing and many more things which I'm looking forward to descover and learn...
-- I've learned Java, C++ and object-oriented programming so far. 
-- 🌱 Currently, I'm learning java and its frame works to finer my skills for back-end.
+- 👋 Hi, My name is Amir and I am a rookie programmer.
+- 👀 I’m interested in software development such as creating web apps, desktop softwares and many more things which I'm looking forward to discover and learn...
+- I've learned Java, C++, object-oriented programming and web development so far. 
+- 🌱 Currently, I code in JavaScript and its frame works to finer my skills for back-end and front-end development.
 - 💞️ I’d be happy to collaborate or contribute on related projects.
 ---
 <br>
